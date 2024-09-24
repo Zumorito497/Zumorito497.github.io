@@ -1076,7 +1076,7 @@ section .container {
 .contact .php-email-form .error-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #ed3c0d;
+  background: #f22e2e;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1089,7 +1089,7 @@ section .container {
 .contact .php-email-form .sent-message {
   display: none;
   background: rgba(255, 255, 255, 0.08);
-  background: #f22e2e;
+  background: #41f047;
   text-align: center;
   padding: 15px;
   font-weight: 600;
